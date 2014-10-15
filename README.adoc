@@ -10,6 +10,7 @@ This lab will guide you through building a BASIC continuous delivery pipeline us
 * A Github.com account
 * A CloudBees.com account
 * An ArtifactoryOnline.com
+* A http://run.pivotal.io[Pivotal Web Services (PWS)] Account
 
 == Setup Steps
 
