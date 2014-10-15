@@ -135,7 +135,7 @@ return getAllBuildNumbers(buildJob)
 
 . Under +Build Environment+, select +Generic-Artifactory Integration+.
 * Select your Artifactory server.
-* Select +ext-releases_local+ as the +Target Respoitory+.
+* Select +ext-releases_local+ as the +Target Respoitory+. (You may need to click the "Refresh Repositories" button)
 +
 Resolved Artifacts:: `libs-releases-local:citytest/${BUILD_VERSION}/*=>artifacts`
 +
