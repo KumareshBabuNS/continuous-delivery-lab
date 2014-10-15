@@ -7,10 +7,12 @@ This lab will guide you through building a BASIC continuous delivery pipeline us
 
 == What You'll Need
 
+
 * A https://github.com/signup[Github.com] account
-* A http://www.cloudbees.com/signup[CloudBees.com] account
-* An https://www.jfrog.com/artifactory/free-trial/#Cloud[ArtifactoryOnline.com]
-* A http://run.pivotal.io[Pivotal Web Services (PWS)] Account
+* A http://www.cloudbees.com/signup[CloudBees.com] trial account
+* An https://www.jfrog.com/artifactory/free-trial/#Cloud[ArtifactoryOnline.com] trial account
+* A http://run.pivotal.io[Pivotal Web Services (PWS)] trial account
+
 
 == Setup Steps
 
