@@ -146,7 +146,8 @@ Resolved Artifacts:: `libs-releases-local:citytest/${BUILD_VERSION}/*=>artifacts
 Name:: +CF_PASSWORD+
 Password:: Your Pivotal Web Services Password
 
-. Under +Build+, add a +Execute Shell+ build step. You will need to replace the placeholders for << Your PWS Username >>, 
+. Under +Build+, add a +Execute Shell+ build step. Copy and paste the following script into the "Command" textarea. 
+You will need to replace the placeholders for << Your PWS Username >>, 
 << Your PWS Org >>, and << Your PWS Space >> with your own information! You will also need to replace 
 "uniquetoken" with a unique token. For simplicity, you can probably use the first initial of your 
 first name + your last name.
