@@ -5,6 +5,12 @@ Matt Stine <matt.stine@gmail.com>
 
 This lab will guide you through building a BASIC continuous delivery pipeline using Jenkins, Artifactory, and Cloud Foundry.
 
+== What You'll Need
+
+* A Github.com account
+* A CloudBees.com account
+* An ArtifactoryOnline.com
+
 == Setup Steps
 
 . FORK (using the GitHub UI) and clone the [citytest repo](https://github.com/mstine/citytest):
